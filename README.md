@@ -19,7 +19,7 @@
 
 <br></br>
 ![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloSarmanhoDev&show_icons=true&theme=algolia)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSarmanhoDev)](https://github.com/PauloSarmanhoDev/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSarmanhoDev)](https://github.com/PauloSarmanhoDev/github-readme-stats)-->
 
 ### Contatos:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-de-tarso-sarmanho/)
