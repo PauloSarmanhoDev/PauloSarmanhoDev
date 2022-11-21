@@ -19,15 +19,15 @@
 
 <br></br>
 ![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloSarmanhoDev&show_icons=true&theme=algolia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSarmanhoDev)](https://github.com/PauloSarmanhoDev/github-readme-stats)
 
 ### Contatos:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-de-tarso-sarmanho/)
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://www.linkedin.com/in/paulo-de-tarso-sarmanho/)
 
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSarmanhoDev)](https://github.com/PauloSarmanhoDev/github-readme-stats)
--->
+
+
 
 <!--
 **PauloSarmanhoDev/PauloSarmanhoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
